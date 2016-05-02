@@ -1,0 +1,48 @@
+Ι {nso-orna 63
+
+Ι ffimmandi vlterius promota, δῖ plus recemment dahs son· Calcul
+4 differentia, Partie seconde, Chap. V. M. Euler avoit traite
+ζ ce sujet ἐι fond 3 mais il n’a pas ete tout-zi-fait content du
+Ι cas οὐ les termes des series sont affestes alternative'ment du
+Ι figne positis δε du figne negatis. Dans ce memoire <il expose
+une methode diretste ὅτ generale, qui paroit devoir contribuet
+⁷ ἐι perfestionner cette partie de l’Analyse.
+
+Ι
+
+Ι · Le premier Probleme que l’Auteur fraste’ss‘j ’est de trou-
+
+giereilia ιιίξιὲτι 1flgznefiofle (ιΙιῗεΙίξὲξιεςιΞξ ἀεὶ ’ἕε- {ss -ῙΞ, 'X Χῖ, ἷξε. leg
+
+valeurs de cette fonstion qui naifl'ent lorsqni' on met ,ιτ-ι- 1,
+
+κ κ-ι-α, x—-1-3‚ διε. ὲ la place de x. Cela poi} il est facile
+ὲ voit, par la nature des differentielleS, que la somme cher-
+thee sessa-:3 {ffl— “LNJ¹÷s³³³¹—÷-⁶2³ ¹4- ecc.
+
+ε ou tout revient εὶ determinet d’une maniere aiffe' les coeffici·
+ens α, β, γ, &c
+
+ 
+
+ 
+
+· ··Pour cet eff'et M.,Eu1er confidet-ela suite =
+
+s-..14-at-f-f3324-7t34- διε.
+en observant que, fi l’on est en etat d’affigner la somme s de
+cette serie, on pourra auffi reciproquement determinet les eo-
+
+efficiens a, β, νγ, &c. les memes qui se trouvent dans la
+somme cherchee S.
+
+Cette consideration le conduit ὲ l’equation s(1-o-e²): 1,
+
+qu’il trahsforme en celle ci: v v—{:}{', οιί
+
+υτ-..ῑι-ὲΞαι-ι-βθ -ι-ΎΡ-ι- ὅτε.
+Mais afin de n’avoir que les puifl‘ances impaires de t dans la
+
+serie pour ν,11 met vat÷Bt³÷ct⁵ 4- &c.d’os1,sebn'
+u.
+

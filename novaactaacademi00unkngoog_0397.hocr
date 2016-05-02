@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novaactaacademi00unkngoog_0397.png"; bbox 0 0 4390 5838; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 213 2310 3317 2617">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 213 2096 3317 2726">
+     <span class='ocr_line' id='line_1_1' title="bbox 213 2310 3317 2617; baseline -0.005 0"><span class='ocrx_word' id='word_1_1' title='bbox 213 2310 3317 2617; x_wconf 69' lang='lat' dir='ltr'><strong>ASTRONOMICA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 266 4767 2571 4955">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 266 4767 2571 4955">
+     <span class='ocr_line' id='line_1_2' title="bbox 266 4767 2571 4955; baseline 0.001 -26"><span class='ocrx_word' id='word_1_2' title='bbox 266 4777 508 4930; x_wconf 67' lang='lat' dir='ltr'><strong>mua</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 540 4842 751 4934; x_wconf 63' lang='lat' dir='ltr'><strong>aaa</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 787 4840 1053 4933; x_wconf 68' lang='lat' dir='ltr'><em>acad.</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1090 4841 1302 4955; x_wconf 78' lang='lat' dir='ltr'><strong><em>Imp.</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1338 4840 1486 4933; x_wconf 65' lang='lat' dir='ltr'><strong>se.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1518 4842 1611 4934; x_wconf 83' lang='grc' dir='ltr'><strong>τ.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1644 4839 1768 4931; x_wconf 83' lang='lat'><strong>11.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2387 4767 2571 4934; x_wconf 61' lang='grc' dir='ltr'><strong>ιζι</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
